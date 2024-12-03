@@ -7,6 +7,7 @@ In this lab, you will practice working with integer arrays, writing methods to m
 In the `main` method:
 1. Declare an integer array and assign values.
 2. Write the following methods in your program, and verify their functionality by making calls from the `main` method.
+3. Write tester code that checks all different scenarios.  Be sure your code works for a variety of values.
 
 ---
 
